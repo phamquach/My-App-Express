@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Quach10052005",
+    "database": "My_SQL",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
