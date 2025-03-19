@@ -14,7 +14,7 @@
 
 1. Clone repository về máy của bạn:
     ```sh
-    git clone https://github.com/phamquach/My-App-Express-.git
+    git clone https://github.com/phamquach/My-App-Express.git
     cd My-App-Express-
     ```
 
